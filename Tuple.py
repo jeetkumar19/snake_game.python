@@ -1,0 +1,11 @@
+t=(12,34,465,556,"jeet kumar",345)
+print(len(t))
+t.count(t)
+print(t)
+t.index(12)
+print(t)
+print(list[t])
+t1=list(t)
+print(t1)
+for i in t:
+    print(t)
